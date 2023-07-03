@@ -1,0 +1,28 @@
+
+"{
+	   "traceId":  "324190aa7180fdad", 
+   "errorCode":  "COMMON_E403_002", 
+   "systemMessage":  "ESB.Error  en  validacion  de  negocio  del  servicio.  
+			[ESB
+		  Url:  <https://10.11.32.73:7020/ibk/uat/api/token/v2/otp/02497953?type=002&identifierType=21&identifierId=dcalders@everis.com>  |  MessageId:  <SGI_UAT_0100ad30aceb-a88d-4809-bbfc-7afccd1834ff>  |  TransactionId:  <18cdfc7a5e2f5ce9343abfc2>  |  Detail:  
+				<{"httpCode":"403","httpMessage":"Business
+		 error","providerCode": 
+		 "0007","providerMessage": 
+		 "ESTADO  DE  PEDIDO  NO  ES  
+					VIGENTE"}>",
+		   "userMessage":  "", 
+			   "fieldErrors":  
+						[
+		       
+							{
+		           "fieldName":  "providerCode", 
+					           "message":  "0007"        							
+	},	
+       
+								{
+		           "fieldName":  "providerMessage", 
+						           "message":  "ESTADO  DE  PEDIDO  NO  ES  VIGENTE"        								
+	}	
+   								
+	]}	
+ 
